@@ -1,0 +1,2 @@
+my_christmas_tree: my_christmas_tree.c
+	gcc -o my_christmas_tree -std=gnu99 -pedantic -Wall -Werror my_christmas_tree.c
